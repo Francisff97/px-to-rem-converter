@@ -1,0 +1,14 @@
+{
+  "manifest_version" : 3,
+  "name" : "px to em/rem converter",
+  "description" : "Convert px to rem",
+  "version" : "1.0",
+  "author" : "Francesco Ferri - https://www.ferrifrancesco.it",
+  "action" : {
+      "default_popup" : "index.html"
+  },
+  "icons" : {
+  "48" : "icon/48.png",
+  "128" : "icon/128.png"
+  }
+}
